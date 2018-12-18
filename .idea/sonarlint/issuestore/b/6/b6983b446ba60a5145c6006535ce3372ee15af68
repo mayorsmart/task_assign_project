@@ -1,0 +1,4 @@
+
+_squid:S11260"AReplace this if-then-else statement by a single return statement.(¥Êª°8ªÈºëù,
+Xsquid:UselessImportCheck"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ
+Nsquid:S1172;"+Remove this unused method parameter "name".(Ñ‹À’øÿÿÿÿ8øÑ…Þû,
