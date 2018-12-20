@@ -19,3 +19,9 @@ Y
 )src/main/java/com/task/entities/User.java,d/1/d1d7b0d8ec3e9d96d011230b3a11cdbdf437d758
 e
 5src/main/java/com/task/controller/UserController.java,c/b/cb12e9576b1fa360884f66e0f45c654d1eda2d38
+e
+5src/main/java/com/task/controller/TaskController.java,8/3/831b79f254b2b55385ba40f80e072604b00df837
+h
+8src/main/java/com/task/controller/ProfileController.java,c/f/cfcfc83ee014580ec3303e4e7ef800339495a025
+i
+9src/main/java/com/task/securityconfig/SecurityConfig.java,a/e/ae9cdaf952160d03f0430ef81c2496b924f3c0f4
